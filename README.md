@@ -2,7 +2,7 @@
 
 Introduction to PyTorch
 
-![image](https://user-images.githubusercontent.com/128174954/226432686-9ead1164-7c89-4310-94fe-851d05ed5c1a.png)
+<img src="https://user-images.githubusercontent.com/128174954/226432686-9ead1164-7c89-4310-94fe-851d05ed5c1a.png" width=300>
 
 # About
 
